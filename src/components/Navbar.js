@@ -10,10 +10,10 @@ const Navbar = () => {
         <a href="https://www.facebook.com/share/1BgkP2FREY/?mibextid=LQQJ4d" className="text-blue-600 hover:text-gray-700">
           <FontAwesomeIcon icon={faFacebook} />
         </a>
-        <a href="https://twitter.com" className="text-gray-500 hover:text-blue-700">
+        <a href="https://twitter.com" className="text-blue-500 hover:text-gray-700">
           <FontAwesomeIcon icon={faTwitter} />
         </a>
-        <a href="https://www.instagram.com/bigbromultibiz_ng/profilecard/?igsh=MWtrenhnbXI5eDlyYw==" className="text-gray-500 hover:text-blue-700">
+        <a href="https://www.instagram.com/bigbromultibiz_ng/profilecard/?igsh=MWtrenhnbXI5eDlyYw==" className="text-blue-600 hover:text-gray-700">
           <FontAwesomeIcon icon={faInstagram} />
         </a>
       </div>
