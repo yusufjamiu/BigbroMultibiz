@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook, faTwitter, faInstagram } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook, faInstagram } from '@fortawesome/free-brands-svg-icons';
 
 const Navbar = () => {
   return (
@@ -9,9 +9,6 @@ const Navbar = () => {
       <div className="flex space-x-4">
         <a href="https://www.facebook.com/share/1BgkP2FREY/?mibextid=LQQJ4d" className="text-blue-600 hover:text-gray-700">
           <FontAwesomeIcon icon={faFacebook} />
-        </a>
-        <a href="https://twitter.com" className="text-blue-600 hover:text-gray-700">
-          <FontAwesomeIcon icon={faTwitter} />
         </a>
         <a href="https://www.instagram.com/bigbromultibiz_ng/profilecard/?igsh=MWtrenhnbXI5eDlyYw==" className="text-blue-600 hover:text-gray-700">
           <FontAwesomeIcon icon={faInstagram} />
