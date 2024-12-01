@@ -30,13 +30,13 @@ const Home = () => {
       <div className="relative h-[500px] overflow-hidden">
         <img 
           src={images[currentImageIndex]} 
-          alt="BigbroMultibiz Showcase" 
+          alt="Bigbromultibiz Showcase" 
           className="absolute inset-0 w-full h-full object-cover transition-opacity duration-1000"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="relative z-10 flex flex-col justify-center items-center h-full text-center text-white px-4">
           <h1 className="text-4xl md:text-6xl font-bold mb-4">
-            BigbroMultibiz Nigeria Limited
+            Bigbromultibiz Nigeria Limited
           </h1>
           <p className="text-xl md:text-2xl max-w-2xl mx-auto">
             Transforming Agriculture, Real Estate, and Hospitality through Innovative Solutions
