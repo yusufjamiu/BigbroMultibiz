@@ -11,42 +11,77 @@ const teamMembers = [
   {
     id: 1,
     name: 'Usman Taiwo-Hassan',
-    role: 'CEO & Founder',
-    bio: 'Visionary leader with 15 years of experience in strategic business development and social entrepreneurship.',
+    role: 'Co-founder and Managing Director',
+    bio: 'Mini MBA, Lagos Business School',
     image: member1,
     linkedin: 'https://linkedin.com/',
     twitter: 'https://twitter.com/',
-    email: 'john.doe@bigbromultibiz.com'
+    email: 'Thebigbro001@gmail.com'
   },
   {
     id: 2,
-    name: 'ibrahim sheu',
-    role: 'Chief Operations Officer',
-    bio: 'Expert in operational excellence and process optimization with a passion for sustainable business practices.',
+    name: 'Oladele Adeola Jane',
+    role: 'Co-founder and Marketing Director',
+    bio: '',
     image: member2,
     linkedin: 'https://linkedin.com/',
     twitter: 'https://twitter.com/',
-    email: 'jane.smith@bigbromultibiz.com'
+    email: ''
   },
   {
     id: 3,
-    name: 'Abdullah salaam',
-    role: 'Head of Business Development',
-    bio: 'Innovative strategist with extensive experience in agricultural and real estate sector transformations.',
+    name: 'Usman Kabir',
+    role: 'Admin Officer',
+    bio: 'HND, Nigeria Institute of Management(Chartered)',
     image: member3,
     linkedin: 'https://linkedin.com/',
     twitter: 'https://twitter.com/',
-    email: 'michael.johnson@bigbromultibiz.com'
+    email: 'Usmankabir470@gmail.com'
   },
   {
     id: 4,
-    name: 'Maryam bello',
-    role: 'Community Engagement Director',
-    bio: 'Passionate social entrepreneur dedicated to creating meaningful impact through community-driven initiatives.',
+    name: 'Usman Jamiu Muhammed',
+    role: 'Head of Sales Management',
+    bio: 'HND, Nigeria Institute of Management(Chartered)',
     image: member4,
     linkedin: 'https://linkedin.com/',
     twitter: 'https://twitter.com/',
-    email: 'sarah.williams@bigbromultibiz.com'
+    email: 'jamium729@gmail.com'
+  },
+  {
+    id: 5,
+    name: 'Abdulrasheed Adebola Babalola',
+    role: 'B.EHS, EHO',
+    bio: 'Community Health Officer',
+    image: member4,
+    linkedin: 'https://linkedin.com/',
+    twitter: 'https://twitter.com/',
+    email: 'Adebola1200@gmail.com'
+  },
+  {
+    id: 6,
+    name: 'Dr. Niyi Balogun',
+    role: 'Veterinary Consultant',
+    bio: 'Vet. Med, MVSC',
+    image: member4,
+    linkedin: 'https://linkedin.com/',
+    twitter: 'https://twitter.com/',
+    email: 'niyijamesbalogun@gmail.com'
+  },
+  {
+    id: 7,
+    name: 'Godwin Tayo Odun',
+    role: 'Head of Logistic Operations'
+  },
+  {
+    id: 8,
+    name: 'Jawad Olayemi',
+    role: 'Company Secretary'
+  },
+  {
+    id: 9,
+    name: 'Supol Humphry Aye',
+    role: 'Security Consultant'
   }
 ];
 
