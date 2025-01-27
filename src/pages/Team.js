@@ -2,10 +2,19 @@ import React from 'react';
 import { FaLinkedin, FaTwitter, FaEnvelope } from 'react-icons/fa';
 
 // Team member images (you'll need to replace these with actual team member photos)
-import member1 from '../assets/BigbroMultibiz.jpg';
-import member2 from '../assets/BigbroMultibiz.jpg';
-import member3 from '../assets/BigbroMultibiz.jpg';
-import member4 from '../assets/BigbroMultibiz.jpg';
+import member1 from '../assets/Hassan.jpg';
+import member2 from '../assets/Jane.jpeg';
+import member3 from '../assets/Sulaiman.jpeg';
+import member4 from '../assets/Usman.jpeg';
+import member5 from '../assets/BigbroMultibiz.jpg';
+import member6 from '../assets/BigbroMultibiz.jpg';
+import member7 from '../assets/BigbroMultibiz.jpg';
+import member8 from '../assets/BigbroMultibiz.jpg';
+import member9 from '../assets/BigbroMultibiz.jpg';
+
+
+
+
 
 const teamMembers = [
   {
@@ -53,7 +62,7 @@ const teamMembers = [
     name: 'Abdulrasheed Adebola Babalola',
     role: 'B.EHS, EHO',
     bio: 'Community Health Officer',
-    image: member4,
+    image: member5,
     linkedin: 'https://linkedin.com/',
     twitter: 'https://twitter.com/',
     email: 'Adebola1200@gmail.com'
@@ -63,7 +72,7 @@ const teamMembers = [
     name: 'Dr. Niyi Balogun',
     role: 'Veterinary Consultant',
     bio: 'Vet. Med, MVSC',
-    image: member4,
+    image: member6,
     linkedin: 'https://linkedin.com/',
     twitter: 'https://twitter.com/',
     email: 'niyijamesbalogun@gmail.com'
@@ -71,17 +80,20 @@ const teamMembers = [
   {
     id: 7,
     name: 'Godwin Tayo Odun',
-    role: 'Head of Logistic Operations'
+    role: 'Head of Logistic Operations',
+    image: member7
   },
   {
     id: 8,
     name: 'Jawad Olayemi',
-    role: 'Company Secretary'
+    role: 'Company Secretary',
+    image: member8
   },
   {
     id: 9,
     name: 'Supol Humphry Aye',
-    role: 'Security Consultant'
+    role: 'Security Consultant',
+    image: member9
   }
 ];
 
