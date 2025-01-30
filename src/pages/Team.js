@@ -2,7 +2,7 @@ import React from 'react';
 import { FaLinkedin, FaTwitter, FaEnvelope } from 'react-icons/fa';
 
 // Team member images (you'll need to replace these with actual team member photos)
-import member1 from '../assets/Hassan.jpg';
+import member1 from '../assets/Hassan.jpeg';
 import member2 from '../assets/Jane.jpeg';
 import member3 from '../assets/Sulaiman.jpeg';
 import member4 from '../assets/Usman.jpeg';
